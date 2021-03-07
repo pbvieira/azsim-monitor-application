@@ -1,0 +1,4 @@
+/**
+ * Spring MVC REST controllers.
+ */
+package br.com.applicationsapi.azsim.evento.web.rest;
